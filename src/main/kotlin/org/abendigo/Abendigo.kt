@@ -47,7 +47,7 @@ fun main(args: Array<String>) {
 	}
 
 
-	enable(GlowESPPlugin)
+	disable(GlowESPPlugin)
 
 	enable(FOVAimPlugin) // I recommend not using any other aim plugins if you use FOV
 
